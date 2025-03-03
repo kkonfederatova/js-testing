@@ -19,5 +19,8 @@
   "description": "",
   "dependencies": {
     "lodash": "*"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
