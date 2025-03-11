@@ -20,3 +20,5 @@ const getDaysInMonth = (month, year) => {
 
   return 31;
 };
+
+export default getDaysInMonth;
